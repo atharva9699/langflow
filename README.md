@@ -6,14 +6,14 @@ Easily create **auto-generated multiple-choice quizzes (MCQs)** for any topic us
 
 ## 🎯 Project Goal
 Build a GenAI pipeline that:
-- Accepts a topic (e.g., *Photosynthesis*) and the number of questions  
+- Accepts a topic  and the number of questions  
 - Generates a validated multiple-choice quiz with an answer key and clear rationales  
 
 ---
 
 ## ✨ Key Features
 - Topic-driven quiz generation for MCQs only  
-- Adjustable difficulty levels (**easy / medium / hard**)  
+- Adjustable difficulty levels 
 - Configurable question count  
 
 ---
@@ -41,7 +41,7 @@ Build a GenAI pipeline that:
 
 ## 📝 Sample Output
 
-**Session:** Sep 17, 17:21:13  
+ 
 **User:** Create 10 quiz questions on *Agentic AI*  
 **AI:** gemma2-9b-it  
 
