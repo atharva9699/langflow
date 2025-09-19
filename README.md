@@ -1,4 +1,4 @@
-# Quiz Generator with LangFlow
+# MCQ quiz LANGFLOW
 
 Easily create **auto-generated multiple-choice quizzes (MCQs)** for any topic using a no-code/low-code GenAI flow built in **LangFlow**.
 
