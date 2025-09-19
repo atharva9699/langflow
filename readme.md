@@ -20,7 +20,7 @@ Build a GenAI pipeline that:
 
 ## 🛠️ Architecture (Flow Overview)
 **Input → Astra DB → Parser → Prompt Template → LLM → Output**
-![Uploading image.png…]()
+
 
 
 ### Components in LangFlow
