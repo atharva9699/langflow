@@ -1,4 +1,5 @@
 # MCQ quiz LANGFLOW
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/f2641028-fed2-4135-a6e6-d87dcaa520b0" />
 
 Easily create **auto-generated multiple-choice quizzes (MCQs)** for any topic using a no-code/low-code GenAI flow built in **LangFlow**.
 
